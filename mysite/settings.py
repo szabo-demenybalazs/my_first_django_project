@@ -25,7 +25,7 @@ SECRET_KEY = 'm6ke^m7s*!0-de4y#u*^2hc+d!fl!eaa1@#fvx2fh%a$o4+xb^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['blasius.pythonanywhere.com']
+ALLOWED_HOSTS = ['37.220.140.46']
 
 
 # Application definition
