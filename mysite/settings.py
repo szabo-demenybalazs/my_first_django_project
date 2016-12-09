@@ -26,7 +26,7 @@ SECRET_KEY = 'm6ke^m7s*!0-de4y#u*^2hc+d!fl!eaa1@#fvx2fh%a$o4+xb^'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '37.220.140.46',
+    'blasius.pythonanywhere.com',
     '127.0.0.1',
 ]
 
